@@ -1,0 +1,17 @@
+{
+  "name": "universal-login-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luke Schoen <ltfschoen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node start.js",
+    "start:dev": "universal-login start:dev"
+  },
+  "dependencies": {
+    "universal-login-sdk": "^0.1.11"
+  },
+  "devDependencies": {
+    "universal-login-ops": "^0.1.9"
+  }
+}
